@@ -1,0 +1,22 @@
+{
+  "name": "final-web-project2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "git": "^0.1.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
